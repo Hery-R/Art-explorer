@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#222222</color>
+    <color name="black">#FF000000</color>
+    <color name="grey">#7A7979</color>
+    <color name="lightblue">#86EEF5</color>
+    <color name="lightgreen">#95F586</color>
+    <color name="lightpurple">#D186F5</color>
+    <color name="orange">#DFA043</color>
+    <color name="pink">#F0C3FF</color>
+    <color name="purple">#990CDB</color>
+    <color name="red">#F83779</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#EFDB28</color>
+    <string name="add_page_description_input">Description</string>
+    <string name="add_page_image_input">Charger image</string>
+    <string name="add_page_name_input">Nom</string>
+    <string name="add_page_return">&lt;&lt; Retour</string>
+    <string name="add_page_submit_button">Envoyer</string>
+    <string name="add_page_title">Ajouter une oeuvre d\'art</string>
+    <string name="app_name">ArtExplorer</string>
+    <string name="favoris_page_item">Favoris</string>
+    <string name="home_page_item">Accueil</string>
+    <string name="home_page_title">Explorer les œuvres d\'art</string>
+    <string name="item_oeuvre_description">Description</string>
+    <string name="item_oeuvre_title">Titre</string>
+    <string name="item_oeuvre_type">Type</string>
+    <style name="Base.Theme.ArtExplorer" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ArtExplorer" parent="Base.Theme.ArtExplorer"/>
+</resources>

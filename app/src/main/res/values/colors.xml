@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- couleurs de l'application -->
+    <color name="background">#222222</color>
+    <color name="purple">#990CDB</color>
+    <color name="yellow">#EFDB28</color>
+
+    <!-- item de liste -->
+    <color name="grey">#7A7979</color>
+    <color name="lightblue">#86EEF5</color>
+    <color name="lightpurple">#D186F5</color>
+    <color name="lightgreen">#95F586</color>
+    <color name="orange">#DFA043</color>
+    <color name="red">#F83779</color>
+
+    <!-- barre de navigation -->
+    <color name="pink">#F0C3FF</color>
+</resources>

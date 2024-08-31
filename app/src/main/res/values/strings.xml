@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ArtExplorer</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">Explorer les œuvres d\'art</string>
+    <string name="home_page_item">Accueil</string>
+
+    <!-- Page de favoris -->
+    <string name="favoris_page_item">Favoris</string>
+
+    <!-- Item de la liste déroulante -->
+    <string name="item_oeuvre_type">Type</string>
+    <string name="item_oeuvre_title">Titre</string>
+    <string name="item_oeuvre_description">Description</string>
+
+    <!-- Page d'ajout d'oeuvre d'art -->
+    <string name="add_page_return">&lt;&lt; Retour</string>
+    <string name="add_page_title">Ajouter une oeuvre d\'art</string>
+    <string name="add_page_image_input">Charger image</string>
+    <string name="add_page_name_input">Nom</string>
+    <string name="add_page_description_input">Description</string>
+    <string name="add_page_submit_button">Envoyer</string>
+
+</resources>
